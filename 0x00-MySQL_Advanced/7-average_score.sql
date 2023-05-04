@@ -1,4 +1,4 @@
--- script that creates a stored procedure ComputeOverallScoreForUser
+-- script that creates a stored procedure ComputeAverageScoreForUser
 -- that computes and store the overall score for a student.
 DROP PROCEDURE IF EXISTS ComputeAverageScoreForUser;
 DELIMITER $$
