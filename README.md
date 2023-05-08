@@ -5,3 +5,4 @@ This is a repository for storage projects entailing databases in ALX Backend Spe
 
 ## Projects
 - 0x00-MySQL advanced
+- 0x01-NoSQL
