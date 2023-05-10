@@ -26,6 +26,7 @@ def count_calls(method: Callable) -> Callable:
         html = method(url)
         r.setex(f'cached:{url}', 10, html)
         return html
+
     return wrapper
 
 
